@@ -1,3 +1,5 @@
+### DISCLAIMER: This is not written from my perspective. All of the following is from Victory, The original developer of Glitch.
+
 ### About Glitch Predictor
 Glitch predictor was a project known by many, with around 16k users in little over a week. I am the developer of it, or was before it was shut down due to complications and overall stress.
 
